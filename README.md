@@ -10,5 +10,5 @@
 ## Techniligies used:
 - C++
 - NCurses
-- MakeFile
+- CMake
 
