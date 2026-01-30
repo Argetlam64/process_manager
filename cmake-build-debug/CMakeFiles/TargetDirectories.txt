@@ -1,0 +1,3 @@
+/home/maj/Documents/semester_2/uvod_v_operacijske_sisteme/process_manager/cmake-build-debug/CMakeFiles/process_manager.dir
+/home/maj/Documents/semester_2/uvod_v_operacijske_sisteme/process_manager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maj/Documents/semester_2/uvod_v_operacijske_sisteme/process_manager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

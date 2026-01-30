@@ -1,0 +1,4 @@
+# ninja log v6
+0	67	1746793582747294844	build.ninja	1a1c99914fd5cd9d
+844	912	1744639570473056232	process_manager	a7db394329a04a81
+4	843	1744639569632384958	CMakeFiles/process_manager.dir/main.cpp.o	76c65419bac11eb6
